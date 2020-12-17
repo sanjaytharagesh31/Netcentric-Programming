@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOMEY</title>
+    <style>
+        body {
+            background-image: url("https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&w=1000&q=80");
+            background-size: cover;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        ul {
+            float: right;
+            padding-right: 30px;
+        }
+
+        li {
+            display: inline;
+        }
+
+        a {
+            color: firebrick;
+        }
+
+        #or {
+            padding-right: 5px;
+            padding-left: 5px;
+        }
+
+        #site_name {
+            color: honeydew;
+            display: inline;
+            padding-left: 30px;
+            font-size: 5em;
+            vertical-align: middle;
+        }
+
+        .para {
+            padding: 10px;
+            line-height: 1.5;
+        }
+
+        img {
+            vertical-align: middle;
+        }
+
+        p {
+            color: cornsilk;
+        }
+
+        i {
+            color: pink;
+            padding: 10px;
+        }
+
+        table {
+            padding: 10px;
+            margin-top: 10px;
+            ;
+            color: powderblue;
+            border-collapse: collapse;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+            color: black;
+        }
+
+        .form-holder {
+            width: 100%;
+            border: 0.5px solid white;
+        }
+
+        .form-holder form {
+            padding: 5px;
+        }
+
+        .form-holder form input {
+            background-color: #eeeeeeb9;
+            border-radius: 2px;
+            text-indent: 15px;
+            height: 30px;
+            vertical-align: middle;
+            margin: 5px;
+        }
+
+        .form-holder form button {
+            background-color: #695acd;
+            color: #fff;
+            font-size: 15px;
+            height: 30px;
+            width: 30%;
+            margin: 10px;
+
+        }
+
+        label {
+            color: white;
+        }
+
+        .main {
+            width: 60%;
+            float: left;
+        }
+
+        .forms {
+            width: 39%;
+            float: right;
+            text-align: center;
+        }
+
+        .ques {
+            color: black;
+            font-size: large;
+            font-weight: bolder;
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="para">
+            <img src="https://image.freepik.com/free-vector/stay-home-stay-safe-concept-poster-design_1017-24657.jpg" ,
+                width="100ox" , height="100px">
+            <h1 id="site_name"> HOMEY's Nest</h1>
+        </div>
+        <div class="para">
+            <p class="para">
+                Homey's Nest is India's fastest growing "Managed Home Rental Network" attempting to provide better
+                rental solutions via design & technology.
+                We help find, book rental homes of choice across Indian cities. We assist with move-in, provide home
+                maintenance services from cleaning, damages to rent payment & even move-out.
+                Whatever be your budget, whatever you may call a home (a bed, a room or an entire house), we have
+                something for you!
+            </p>
+            <p class="para">
+                Over the last decade, Homey's Nest has firmly established itself as one of the leading and most
+                successful developers of real estate in India by imprinting its indelible mark across all asset classes.
+            </p>
+            <i>We care for you! Stay safe, Stay at home. Did you know?</i>
+            <table>
+                <tr>
+                    <th> Name of the country</th>
+                    <th> Latest count on Corona</th>
+                    <th> Number of deaths</th>
+                </tr>
+                <tr>
+                    <td> India </td>
+                    <td> 201321</td>
+                    <td> 2013</td>
+                </tr>
+                <tr>
+                    <td> USA</td>
+                    <td> 12788748</td>
+                    <td> 12124</td>
+                </tr>
+                <tr>
+                    <td> Italy</td>
+                    <td> 8974332</td>
+                    <td> 32342</td>
+                </tr>
+                <tr>
+                    <td> Germany</td>
+                    <td> 893274</td>
+                    <td> 3711</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <ul>
+        <li> <a href="#home">Home <span id='or'>|</span></a></li>
+        <li> <a href="#about">About Us <span id='or'>|</span></a></li>
+        <li> <a href="#book">Book <span id='or'>|</span></a></li>
+        <li> <a href="#contact">Contact Us</a> </li>
+    </ul>
+    <div class="forms">
+        <div class="form-holder">
+            <form class="login-form">
+                <p style="color: rgb(107, 67, 67); font-size: large; font-weight: bolder;">Sign In</p>
+                <input type="text" placeholder="username" required />
+                <input type="password" placeholder="password" required />
+                <button type="submit">SUBMIT</button>
+                <button type="reset">RESET</button>
+                <a style="display: block; color: black;" href="#forgot"> Forgot password?</a>
+            </form>
+        </div>
+
+        <div class="form-holder">
+            <form method="post" class="login-form" style="text-align: left; padding-left: 10%;">
+                <p class="ques">Sign Up</p>
+                <input type="text" id="fname" name="fname" placeholder="First Name">
+                <input type="text" id="lname" name="lname" placeholder="Last Name"></br>
+                <input type="password" id="pword" name="pword" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" placeholder="Passowrd" required></br>
+                </br>
+                <p class="ques">Choose your Gender</p>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Male</label><br>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label><br>
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">Other</label>
+                </br>
+                <p class="ques">Choose your Vehicle type for parking</p>
+                <input type="checkbox" id="bike" name="vehicle" value="bike">
+                <label for="bike"> I have a bike</label><br>
+                <input type="checkbox" id="car" name="vehicle" value="car">
+                <label for="car"> I have a car</label><br>
+                <input type="checkbox" id="boat" name="vehicle" value="boat">
+                <label for="boat"> I have a boat</label>
+                </br>
+                <label for="dob">Date of Birth:</label>
+                <input type="date" id="dob" name="dob">
+                </br>
+                <label for="email">Enter your Email:</label>
+                <input type="email" id="email" name="email" placeholder="xyz@yahoo.co.in">
+                </br>
+                <label for="myfile">Choose Photo to upload:</label>
+                <input type="file" id="photo" name="photo" value="photo">
+                </br>
+                <label for="family_members">Numer of Family members (max - 10):</label>
+                <input type="number" id="family_members" name="family_members" min="1" max="10">
+                </br>
+                <label for="portfolio">Your Portfolio URL: </label>
+                <input type="url" id="portfolio" name="portfolio" placeholder="xys.com">
+                </br>
+                <input type="checkbox" id="terms" name="terms" value="terms" required>
+                <label for="terms"> Agree to terms and conditions</label><br>
+                <button type="submit">SUBMIT</button>
+                <button type="reset">RESET</button>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>

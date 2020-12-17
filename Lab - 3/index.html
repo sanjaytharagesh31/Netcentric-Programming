@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="body.css">
+    <link rel="stylesheet" type="text/css" href="lab2.css">
+    <link rel="stylesheet" type="text/css" href="lab3.css"> 
+    <title>Document</title>
+</head>
+
+<body>
+    <marquee scrollamount='15'>As a blind man has no idea of colors, so have we no idea of the manner by which the all-wise God perceives
+        and understands all things. - <span id='author'>Isaac Newton</span> </marquee>
+    <div class="main">
+        <div class="para">
+            <img src="https://image.freepik.com/free-vector/stay-home-stay-safe-concept-poster-design_1017-24657.jpg" ,
+                alt="background_image" , width="100ox" , height="100px">
+            <h1 id="site_name"> HOMEY's Nest</h1>
+        </div>
+        <div class="para">
+            <p class="para">
+                Homey's Nest is India's fastest growing "Managed Home Rental Network" attempting to provide better
+                rental solutions via design & technology.
+                We help find, book rental homes of choice across Indian cities. We assist with move-in, provide home
+                maintenance services from cleaning, damages to rent payment & even move-out.
+                Whatever be your budget, whatever you may call a home (a bed, a room or an entire house), we have
+                something for you!
+            </p>
+            <p class="para">
+                Over the last decade, Homey's Nest has firmly established itself as one of the leading and most
+                successful developers of real estate in India by imprinting its indelible mark across all asset classes.
+            </p>
+            <i>We care for you! Stay safe, Stay at home. Did you know?</i>
+            <ul id="features">
+                <li>Enable families to spend quality time together without the disruptions of daily hassles.</li>
+                <li>You can have your meals any time of the day without having to worry about the attendant knocking on
+                    your door to serve your meals.</li>
+                <li>Connect with your family, especially where there are children involved.</li>
+                <li> One can relax, increase their overall health and enjoy.</li>
+            </ul>
+            <table>
+                <tr>
+                    <th> Name of the country</th>
+                    <th> Latest count on Corona</th>
+                    <th> Number of deaths</th>
+                </tr>
+                <tr>
+                    <td> India </td>
+                    <td> 201321</td>
+                    <td title="Lowest value"> 2013</td>
+                </tr>
+                <tr>
+                    <td> USA</td>
+                    <td title="Highest value"> 12788748</td>
+                    <td> 12124</td>
+                </tr>
+                <tr>
+                    <td> Italy</td>
+                    <td> 8974332</td>
+                    <td> 32342</td>
+                </tr>
+                <tr>
+                    <td> Germany</td>
+                    <td> 893274</td>
+                    <td> 3711</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <ul id="nav">
+        <li> <a href="#home">Home <span id='or'>|</span></a></li>
+        <li> <a href="#about">About Us <span id='or'>|</span></a></li>
+        <li> <a href="#book">Book <span id='or'>|</span></a></li>
+        <li> <a href="#contact">Contact Us</a> </li>
+    </ul>
+    <div class="forms">
+        <div class="form-holder">
+            <form class="login-form">
+                <p class="ques">Sign In</p>
+                <input type="text" placeholder="username" required />
+                <input type="password" placeholder="password" required />
+                <button type="submit">SUBMIT</button>
+                <button type="reset">RESET</button>
+                <a class="forgot" href="#forgot"> Forgot password?</a>
+            </form>
+        </div>
+
+        <div class="form-holder">
+            <form class="login-form" style="text-align: left; padding-left: 10%;">
+                <p class="ques">Sign Up</p>
+                <input type="text" id="fname" name="fname" placeholder="First Name">
+                <input type="text" id="lname" name="lname" placeholder="Last Name"></br>
+                <input type="password" id="pwd" name="pwd" placeholder="Passowrd"></br>
+                </br>
+                <p class="ques">Choose your Gender</p>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Male</label><br>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label><br>
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">Other</label>
+                </br>
+                <p class="ques">Choose your Vehicle type for parking</p>
+                <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+                <label for="vehicle1"> I have a bike</label><br>
+                <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+                <label for="vehicle2"> I have a car</label><br>
+                <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+                <label for="vehicle3"> I have a boat</label>
+                </br>
+                <label for="birthday">Date of Birth:</label>
+                <input type="date" id="birthday" name="birthday">
+                </br>
+                <label for="email">Enter your Email:</label>
+                <input type="email" id="email" name="email" placeholder="xyz@yahoo.co.in">
+                </br>
+                <label for="myfile">Choose Photo to upload:</label>
+                <input type="file">
+                </br>
+                <label for="quantity">Numer of Family members (max - 10):</label>
+                <input type="number" id="quantity" name="quantity" min="1" max="10">
+                </br>
+                <label for="homepage">Your Portfolio URL: </label>
+                <input type="url" id="homepage" name="homepage" placeholder="xys.com">
+                </br>
+                <input type="checkbox" id="terms" name="terms" value="terms" required>
+                <label for="terms"> Agree to terms and conditions</label><br>
+                <button type="submit">SUBMIT</button>
+                <button type="reset">RESET</button>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>

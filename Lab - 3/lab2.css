@@ -1,0 +1,63 @@
+a {
+    color: firebrick;
+}
+
+#or {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.para {
+    padding: 10px;
+    line-height: 1.5;
+}
+
+img {
+    vertical-align: middle;
+}
+
+i {
+    /* color: pink; */
+    padding: 10px;
+}
+
+.form-holder {
+    width: 100%;
+    border: 0.5px solid white;
+}
+
+.form-holder form {
+    padding: 5px;
+}
+
+.form-holder form input {
+    background-color: #eeeeeeb9;
+    border-radius: 2px;
+    text-indent: 15px;
+    height: 30px;
+    vertical-align: middle;
+    margin: 5px;
+}
+
+.form-holder form button {
+    background-color: #695acd;
+    color: #fff;
+    font-size: 15px;
+    height: 30px;
+    width: 30%;
+    margin: 10px;
+}
+
+.main {
+    width: 60%;
+    float: left;
+}
+
+.forgot {
+    display: block;
+}
+
+.ques {
+    font-size: large;
+    font-weight: bolder;
+}

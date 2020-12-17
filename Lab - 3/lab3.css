@@ -1,0 +1,138 @@
+/*  Question 1 - make square points to ul*/
+#features {
+    list-style-type: square;
+    background-color: purple;
+    color: thistle;
+}
+
+/*  Question 2 - italic paragraphs, 1 para bold*/
+p {
+    font-style: italic;
+}
+
+p:nth-child(2) {
+    font-weight: bold;
+
+}
+
+/* Question 3 - bg color to light color*/
+body {
+    background-color: violet;
+}
+
+/* Question 4 - pseudo class and element selectors */
+/* unvisited link */
+#nav a:link {
+    color: royalblue
+}
+
+/* visited link */
+#nav a:visited {
+    color: teal
+}
+
+/* mouse over link */
+#nav a:hover {
+    color: red
+}
+
+/* selected link */
+#nav a:active {
+    color: #0000FF;
+}
+
+#nav > li {
+    display: inline;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+    color: black;
+}
+
+/* Question 5 - FLaot and clear properties */
+#nav {
+    float: right;
+    padding-right: 30px;
+}
+
+.forms {
+    width: 39%;
+    float: right;
+    text-align: center;
+}
+
+h1 {
+    clear:right;
+}
+
+/* Question 6 - highlight highest and lowest value  of table */
+tr:nth-child(3) td:nth-child(2) {
+    text-decoration:underline;
+    text-decoration-style: wavy;
+    text-decoration-color: navy;
+    color: red;
+    text-shadow: 1px 1px wheat;
+    background-color: yellow;
+}
+
+tr:nth-child(2) td:nth-child(3) {
+    text-decoration:underline;
+    text-decoration-style: dashed;
+    text-decoration-color: navy;
+    color: red;
+    background-color: turquoise;
+}
+
+/* Question 7 - Usage of Google Font (link in HEAD) */
+#site_name {
+    font-family: 'Russo One', sans-serif;
+    color: honeydew;
+    display: inline;
+    padding-left: 30px;
+    font-size: 5em;
+    vertical-align: middle;
+}
+
+/* Question 8 - Border properties on table */
+table {
+    padding: 10px;
+    margin-top: 10px;
+    border-collapse: collapse;
+    border: 2PX SOLID black;
+    border-style: double;
+    border-spacing: 3px;
+}
+
+td,
+th {
+    border: 1px solid chocolate;
+    text-align: left;
+    padding: 8px;
+}
+
+/* Question 9 decorate scrolling text*/
+marquee {
+    background-color:tomato;
+    font-size: xx-large;
+    color: #333;
+    text-align: center;
+    animation: scroll-left 3s linear infinite;
+}
+
+#author {
+    background-color: teal;
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+/* Question 10 - Unique feature (Annimation - BLINK) */
+tr:nth-child(3) td:nth-child(2) {
+    animation: blink 0.5s linear infinite;
+}
+@keyframes blink{
+    0%{opacity: 0;}
+    50%{opacity: .5;}
+    100%{opacity: 1;}
+}

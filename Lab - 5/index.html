@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *:before,
+        *:after {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Nunito', sans-serif;
+            color: #384047;
+        }
+
+        form {
+            max-width: 300px;
+            margin: 10px auto;
+            padding: 10px 20px;
+            background: #f4f7f8;
+            border-radius: 8px;
+        }
+
+        h1 {
+            margin: 0 0 30px 0;
+            text-align: center;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="url"],
+        textarea,
+        select {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            font-size: 16px;
+            height: auto;
+            margin: 0;
+            outline: 0;
+            padding: 15px;
+            width: 100%;
+            background-color: #e8eeef;
+            color: #8a97a0;
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+            margin-bottom: 30px;
+        }
+
+        input[type="radio"],
+        input[type="checkbox"] {
+            margin: 0 4px 8px 0;
+        }
+
+        select {
+            padding: 6px;
+            height: 32px;
+            border-radius: 2px;
+        }
+
+        button {
+            padding: 19px 39px 18px 39px;
+            color: #FFF;
+            background-color: #4bc970;
+            font-size: 18px;
+            text-align: center;
+            font-style: normal;
+            border-radius: 5px;
+            width: 100%;
+            border: 1px solid #3ac162;
+            border-width: 1px 1px 3px;
+            box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+            margin-bottom: 10px;
+        }
+
+        fieldset {
+            margin-bottom: 30px;
+            border: none;
+        }
+
+        legend {
+            font-size: 1.4em;
+            margin-bottom: 10px;
+        }
+
+        label {
+            font-weight: bolder;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        label.light {
+            font-weight: 300;
+            display: inline;
+        }
+
+        @media screen and (min-width: 480px) {
+            form {
+                max-width: 480px;
+            }
+        }
+    </style>
+</head>
+<script>
+    function validateForm() {
+        let roll = document.forms["myForm"]["roll"].value;
+        let mail = document.forms["myForm"]["mail"].value;
+        let pass = document.forms["myForm"]["password"].value;
+        let gender = document.forms["myForm"]["gender"].value;
+        let course = document.querySelectorAll('input[name="course"]:checked');
+
+        if (roll == "" || roll == null || roll == undefined) {
+            alert("Please enter your Roll Number") 
+                return false;
+        } 
+        else {
+            roll_reg = /^(CB|AM|BL)\.EN\.(U4|P2)(CSE|EEE|ECE|MEC|CHE)([0-9]){2}([0-9]){3}/gm;
+            if (roll_reg.test(roll) === false) {
+                alert("Enter correct Roll Number") 
+                return false;
+            }
+        }
+
+        if (mail == "" || mail == null || mail == undefined) {
+            alert("Please enter your E-Mail") 
+                return false;
+        } 
+        else {
+            email_reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            if (email_reg.test(mail) === false) {
+                alert("Enter correct email address") 
+				return false;
+            }
+        }
+
+        if (pass == "" || pass == null || pass == undefined) {
+            alert("Please enter your Password") 
+                return false;
+        } 
+        else {
+            pass_reg = /(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}/;
+            if (pass_reg.test(pass) === false) {
+                alert("Enter correct password\nAt least one number, one lowercase, one uppercase letter, at least eight characters") 
+				return false;
+            }
+        }
+
+        if (gender == "" || gender == null || gender == undefined) {
+            alert("Please enter your gender") 
+            return false;
+        }
+
+        if (course.length === 0) {	
+            alert("Select atleast one course");
+            return false;
+        }
+        alert("All inputs are correct") 
+            return true;
+    }
+</script>
+
+<body>
+    <form name="myForm" action="#" method="post" onsubmit="return validateForm()">
+    	<h1>FORM</h1>
+    	<fieldset>
+			<label for="name">Roll Number</label>
+			<input type="text" id="roll" name="roll">
+			<label for="mail">Email:</label>
+				<input type="text" id="mail" name="mail">
+				<label for="password">Password:</label>
+				<input type="password" id="password" name="password">
+				<label>Gender:</label>
+				<input type="radio" id="male" value="male" name="gender">
+				<label for="male" class="light">Male</label><br />
+				<input type="radio" id="female" value="female" name="gender">
+				<label for="female" class="light">Female</label>
+				<label>Select Courses</label>
+				<input type="checkbox" id="Compiler Design" value="Compiler Design" name="course">
+				<label class="light" for="Compiler Design">Compiler Design</label><br>
+				<input type="checkbox" id="Machine Learning" value="Machine Learning" name="course">
+				<label class="light" for="Machine Learning">Machine	Learning</label><br>
+				<input type="checkbox" id="Data Science" value="Data Science" name="course">
+				<label class="light" for="Data Science">Data Science</label><br>
+				<input type="checkbox" id="Full Stack Developer" value="Full Stack Developer" name="course">
+				<label class="light" for="Full Stack Developer">Full Stack Developer</label>
+				<button type="submit">Submit</button>
+				<button	type="reset">Reset</button>
+			</fieldset>
+    </form>
+</body>
+
+</html>

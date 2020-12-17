@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row>
+		<Suburb>Williams Landing</Suburb>
+		<Address>6 Wildebrand Av</Address>
+		<Rooms>4</Rooms>
+		<Type>h</Type>
+		<Price>785000</Price>
+		<Method>S</Method>
+		<SellerG>hockingstuart</SellerG>
+		<Date>30-12-2017</Date>
+		<Postcode>3027</Postcode>
+		<Regionname>Western Metropolitan</Regionname>
+		<Propertycount>1999</Propertycount>
+		<Distance>17.6</Distance>
+		<CouncilArea>Wyndham City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Kew East</Suburb>
+		<Address>50 Windella Av</Address>
+		<Rooms>3</Rooms>
+		<Type>h</Type>
+		<Price>2125000</Price>
+		<Method>VB</Method>
+		<SellerG>Jellis</SellerG>
+		<Date>16-09-2017</Date>
+		<Postcode>3102</Postcode>
+		<Regionname>Southern Metropolitan</Regionname>
+		<Propertycount>2671</Propertycount>
+		<Distance>7.3</Distance>
+		<CouncilArea>Boroondara City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Kew East</Suburb>
+		<Address>5 Woodlands Av</Address>
+		<Rooms>2</Rooms>
+		<Type>h</Type>
+		<Price>1325000</Price>
+		<Method>PI</Method>
+		<SellerG>Jellis</SellerG>
+		<Date>16-09-2017</Date>
+		<Postcode>3102</Postcode>
+		<Regionname>Southern Metropolitan</Regionname>
+		<Propertycount>2671</Propertycount>
+		<Distance>7.3</Distance>
+		<CouncilArea>Boroondara City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Kew East</Suburb>
+		<Address>22 Woolcock Av</Address>
+		<Rooms>3</Rooms>
+		<Type>h</Type>
+		<Price>1975000</Price>
+		<Method>PI</Method>
+		<SellerG>Lindellas</SellerG>
+		<Date>16-09-2017</Date>
+		<Postcode>3102</Postcode>
+		<Regionname>Southern Metropolitan</Regionname>
+		<Propertycount>2671</Propertycount>
+		<Distance>7.3</Distance>
+		<CouncilArea>Boroondara City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Fitzroy North</Suburb>
+		<Address>220 Clauscen St</Address>
+		<Rooms>4</Rooms>
+		<Type>h</Type>
+		<Price>2450000</Price>
+		<Method>S</Method>
+		<SellerG>Nelson</SellerG>
+		<Date>12-05-2018</Date>
+		<Postcode>3068</Postcode>
+		<Regionname>Northern Metropolitan</Regionname>
+		<Propertycount>6244</Propertycount>
+		<Distance>3.6</Distance>
+		<CouncilArea>Moreland City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Doncaster East</Suburb>
+		<Address>18 Silvana Ct</Address>
+		<Rooms>4</Rooms>
+		<Type>h</Type>
+		<Price/>
+		<Method>S</Method>
+		<SellerG>hockingstuart</SellerG>
+		<Date>06-01-2018</Date>
+		<Postcode>3109</Postcode>
+		<Regionname>Eastern Metropolitan</Regionname>
+		<Propertycount>10999</Propertycount>
+		<Distance>14.3</Distance>
+		<CouncilArea>Manningham City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Carrum</Suburb>
+		<Address>2/32 Valetta St</Address>
+		<Rooms>3</Rooms>
+		<Type>h</Type>
+		<Price>788000</Price>
+		<Method>S</Method>
+		<SellerG>Ray</SellerG>
+		<Date>03-03-2018</Date>
+		<Postcode>3197</Postcode>
+		<Regionname>South-Eastern Metropolitan</Regionname>
+		<Propertycount>1989</Propertycount>
+		<Distance>31.2</Distance>
+		<CouncilArea>Kingston City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Carrum Downs</Suburb>
+		<Address>21 Hellenic Ct</Address>
+		<Rooms>4</Rooms>
+		<Type>h</Type>
+		<Price>562500</Price>
+		<Method>S</Method>
+		<SellerG>Harcourts</SellerG>
+		<Date>03-03-2018</Date>
+		<Postcode>3201</Postcode>
+		<Regionname>South-Eastern Metropolitan</Regionname>
+		<Propertycount>8060</Propertycount>
+		<Distance>34.9</Distance>
+		<CouncilArea>Frankston City Council</CouncilArea>
+	</row>
+	<row>
+		<Suburb>Abbotsford</Suburb>
+		<Address>49 Lithgow St</Address>
+		<Rooms>3</Rooms>
+		<Type>h</Type>
+		<Price>1490000</Price>
+		<Method>S</Method>
+		<SellerG>Jellis</SellerG>
+		<Date>01-04-2017</Date>
+		<Postcode>3067</Postcode>
+		<Regionname>Northern Metropolitan</Regionname>
+		<Propertycount>4019</Propertycount>
+		<Distance>3</Distance>
+		<CouncilArea>Yarra City Council</CouncilArea>
+	</row>
+</root>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE root [
+	<!ELEMENT root (row)+>
+	<!ELEMENT row (Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Postcode,Regionname,Propertycount,Distance,CouncilArea)>
+	<!ELEMENT Suburb (#PCDATA)>
+	<!ELEMENT Address (#PCDATA)>
+	<!ELEMENT Rooms (#PCDATA)>
+	<!ELEMENT Type (#PCDATA)>
+	<!ELEMENT Price (#PCDATA)>
+	<!ELEMENT Method (#PCDATA)>
+	<!ELEMENT SellerG (#PCDATA)>
+	<!ELEMENT Date (#PCDATA)>
+	<!ELEMENT Postcode (#PCDATA)>
+	<!ELEMENT Regionname (#PCDATA)>
+	<!ELEMENT Propertycount (#PCDATA)>
+	<!ELEMENT Distance (#PCDATA)>
+	<!ELEMENT CouncilArea (#PCDATA)>
+]>
+
+
+
+
+<root>
+  <row>
+    <Suburb>Abbotsford</Suburb>
+    <Address>49 Lithgow St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1490000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3067</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4019</Propertycount>
+    <Distance>3</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Brunswick East</Suburb>
+    <Address>1/164 Nicholson St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>860000</Price>
+    <Method>S</Method>
+    <SellerG>Woodards</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3057</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5533</Propertycount>
+    <Distance>4</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Elwood</Suburb>
+    <Address>68 Tennyson St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2985000</Price>
+    <Method>S</Method>
+    <SellerG>Kay</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3184</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8989</Propertycount>
+    <Distance>7.2</Distance>
+    <CouncilArea>Port Phillip City Council</CouncilArea>
+  </row>
+</root>

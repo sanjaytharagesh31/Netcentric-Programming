@@ -1,0 +1,3787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="D:\sem7\NCP\Lab - 7\style.xsl" type="text/xsl"?>
+
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="D:\sem7\NCP\Lab - 7\XSD\MELBOURNE_HOUSE_PRICES_LESS - Copy.xsd">
+  <row>
+    <Suburb>Abbotsford</Suburb>
+    <Address>49 Lithgow St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1490000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3067</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4019</Propertycount>
+    <Distance>3</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+<row>
+    <Suburb>Heidelberg Heights</Suburb>
+    <Address>44 Marie Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>786000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3081</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2947</Propertycount>
+    <Distance>8.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Heidelberg Heights</Suburb>
+    <Address>71a Porter Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3081</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2947</Propertycount>
+    <Distance>8.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Heidelberg Heights</Suburb>
+    <Address>4 Spencer St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>959000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3081</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2947</Propertycount>
+    <Distance>8.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Heidelberg West</Suburb>
+    <Address>1 Mulberry Pde</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>720000</Price>
+    <Method>S</Method>
+    <SellerG>Fletchers</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3081</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2674</Propertycount>
+    <Distance>8.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Highett</Suburb>
+    <Address>30 Avoca St</Address>
+    <Rooms>4</Rooms>
+    <Type>t</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Hodges</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3190</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4794</Propertycount>
+    <Distance>16</Distance>
+    <CouncilArea>Bayside City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Highett</Suburb>
+    <Address>2 Hazel Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1322000</Price>
+    <Method>S</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3190</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4794</Propertycount>
+    <Distance>16</Distance>
+    <CouncilArea>Bayside City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Highett</Suburb>
+    <Address>13 Morley Cr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3190</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4794</Propertycount>
+    <Distance>16</Distance>
+    <CouncilArea>Bayside City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hillside</Suburb>
+    <Address>5 Anastasia Ct</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>612500</Price>
+    <Method>S</Method>
+    <SellerG>Sweeney</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3037</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5556</Propertycount>
+    <Distance>18</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hillside</Suburb>
+    <Address>8 Honeysuckle Av</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>630000</Price>
+    <Method>SP</Method>
+    <SellerG>Prof.</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3037</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5556</Propertycount>
+    <Distance>18</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hoppers Crossing</Suburb>
+    <Address>98 Barber Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>715000</Price>
+    <Method>S</Method>
+    <SellerG>Greg</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3029</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>13830</Propertycount>
+    <Distance>18.4</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hoppers Crossing</Suburb>
+    <Address>12 Clay Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>YPA</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3029</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>13830</Propertycount>
+    <Distance>18.4</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hoppers Crossing</Suburb>
+    <Address>30 Elder Rd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>686500</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3029</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>13830</Propertycount>
+    <Distance>18.4</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hughesdale</Suburb>
+    <Address>2 Arthur St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1065000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3166</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>3145</Propertycount>
+    <Distance>12.3</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Hughesdale</Suburb>
+    <Address>6A Maroo St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1355000</Price>
+    <Method>S</Method>
+    <SellerG>Woodards</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3166</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>3145</Propertycount>
+    <Distance>12.3</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Huntingdale</Suburb>
+    <Address>31 Berkeley St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1145000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3166</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>768</Propertycount>
+    <Distance>12.3</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>13 Dalveen Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>792000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>107 Ford St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1440000</Price>
+    <Method>SP</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>24 Latham St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>3/6 Merton St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>660000</Price>
+    <Method>VB</Method>
+    <SellerG>Miles</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>4 Meryton La</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1977000</Price>
+    <Method>S</Method>
+    <SellerG>Miles</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>81 The Boulevard</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1840000</Price>
+    <Method>SP</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe</Suburb>
+    <Address>123 Valentine St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1275000</Price>
+    <Method>PI</Method>
+    <SellerG>Haughton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>5549</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ivanhoe East</Suburb>
+    <Address>30 Townsend St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1781000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3079</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>1554</Propertycount>
+    <Distance>7.8</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Jacana</Suburb>
+    <Address>42 Hales Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>575000</Price>
+    <Method>S</Method>
+    <SellerG>YPA</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3047</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>851</Propertycount>
+    <Distance>14</Distance>
+    <CouncilArea>Hume City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Jacana</Suburb>
+    <Address>14 Landy Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>542000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3047</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>851</Propertycount>
+    <Distance>14</Distance>
+    <CouncilArea>Hume City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor Downs</Suburb>
+    <Address>18 Wimmera Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>569000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3038</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>3656</Propertycount>
+    <Distance>15.5</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor East</Suburb>
+    <Address>3 Ash Gr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>950000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3033</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5629</Propertycount>
+    <Distance>11.7</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor East</Suburb>
+    <Address>20 Border Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>850000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3033</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5629</Propertycount>
+    <Distance>11.7</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor East</Suburb>
+    <Address>60 Clarks Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Brad</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3033</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5629</Propertycount>
+    <Distance>11.7</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor East</Suburb>
+    <Address>165 Sterling Dr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>756000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3033</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5629</Propertycount>
+    <Distance>11.7</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor East</Suburb>
+    <Address>1/33 Surrey Dr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3033</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5629</Propertycount>
+    <Distance>11.7</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keilor East</Suburb>
+    <Address>42a Wonganella Dr</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>680000</Price>
+    <Method>S</Method>
+    <SellerG>Brad</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3033</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5629</Propertycount>
+    <Distance>11.7</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kensington</Suburb>
+    <Address>14/8 Mawbey St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>360000</Price>
+    <Method>VB</Method>
+    <SellerG>Edward</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3031</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5263</Propertycount>
+    <Distance>3.4</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kensington</Suburb>
+    <Address>202/60 Speakmen St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>325000</Price>
+    <Method>PI</Method>
+    <SellerG>Edward</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3031</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5263</Propertycount>
+    <Distance>3.4</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kensington</Suburb>
+    <Address>141 Stockmans Wy</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1103000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3031</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5263</Propertycount>
+    <Distance>3.4</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kensington</Suburb>
+    <Address>123 The Crescent</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>901000</Price>
+    <Method>S</Method>
+    <SellerG>Purplebricks</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3031</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5263</Propertycount>
+    <Distance>3.4</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kensington</Suburb>
+    <Address>100 Westbourne Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>t</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Edward</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3031</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5263</Propertycount>
+    <Distance>3.4</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>4/178 Brougham St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>653000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>17 Byron St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>45 Cobden St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>119 Derby St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>2000000</Price>
+    <Method>S</Method>
+    <SellerG>Noel</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>24 Disraeli St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Kay</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>10 Ferguson St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1610000</Price>
+    <Method>S</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>66 Fitzwilliam St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>30 Hodgson St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PN</Method>
+    <SellerG>Philip</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>9 Kellett Gr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2315000</Price>
+    <Method>SP</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>2 Lalla Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1050000</Price>
+    <Method>VB</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>19 Miller Gr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>36 Normanby Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>2155000</Price>
+    <Method>SP</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew</Suburb>
+    <Address>15/152 Princess St</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>830000</Price>
+    <Method>SP</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew East</Suburb>
+    <Address>15 Cole Av</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>RT</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3102</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2671</Propertycount>
+    <Distance>7.3</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew East</Suburb>
+    <Address>6 Meldrum St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1770000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3102</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2671</Propertycount>
+    <Distance>7.3</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keysborough</Suburb>
+    <Address>12 Warragamba Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>600000</Price>
+    <Method>PI</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3173</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>8459</Propertycount>
+    <Distance>25.2</Distance>
+    <CouncilArea>Greater Dandenong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kingsville</Suburb>
+    <Address>28 Chirnside St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Village</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>1808</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kingsville</Suburb>
+    <Address>29 Queensville St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>1808</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kingsville</Suburb>
+    <Address>26 Wales St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Jas</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>1808</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Knoxfield</Suburb>
+    <Address>22 Lakewood Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3180</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2949</Propertycount>
+    <Distance>23.3</Distance>
+    <CouncilArea>Knox City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kurunjang</Suburb>
+    <Address>33 Skipton St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3337</Postcode>
+    <Regionname>Northern Victoria</Regionname>
+    <Propertycount>3553</Propertycount>
+    <Distance>31.7</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lalor</Suburb>
+    <Address>1 Hammersley Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>592000</Price>
+    <Method>S</Method>
+    <SellerG>Iconek</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3075</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>8279</Propertycount>
+    <Distance>16.3</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lilydale</Suburb>
+    <Address>20 Harmony Cl</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PN</Method>
+    <SellerG>Stockdale</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3140</Postcode>
+    <Regionname>Eastern Victoria</Regionname>
+    <Propertycount>6732</Propertycount>
+    <Distance>29.9</Distance>
+    <CouncilArea>Yarra Ranges Shire Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>MacLeod</Suburb>
+    <Address>19 Kinlock St</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3085</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4168</Propertycount>
+    <Distance>12.7</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>MacLeod</Suburb>
+    <Address>23 Lookout Ri</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1120000</Price>
+    <Method>VB</Method>
+    <SellerG>Miles</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3085</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4168</Propertycount>
+    <Distance>12.7</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>MacLeod</Suburb>
+    <Address>2/12 Oban Wy</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>710000</Price>
+    <Method>S</Method>
+    <SellerG>Darren</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3085</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4168</Propertycount>
+    <Distance>12.7</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>MacLeod</Suburb>
+    <Address>62 Strathallan Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>915000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3085</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4168</Propertycount>
+    <Distance>12.7</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maidstone</Suburb>
+    <Address>8 Mandrel St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>3873</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern</Suburb>
+    <Address>12/9 Ascot St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>360000</Price>
+    <Method>PI</Method>
+    <SellerG>Sotheby&apos;s</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3144</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4675</Propertycount>
+    <Distance>5.9</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern</Suburb>
+    <Address>21 Embling Rd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2400000</Price>
+    <Method>VB</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3144</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4675</Propertycount>
+    <Distance>5.9</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern</Suburb>
+    <Address>9/423 Glenferrie Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1350000</Price>
+    <Method>S</Method>
+    <SellerG>Kay</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3144</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4675</Propertycount>
+    <Distance>5.9</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern</Suburb>
+    <Address>6/12 Irving St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>450000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3144</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4675</Propertycount>
+    <Distance>5.9</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern</Suburb>
+    <Address>2A Robinson St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Abercromby&apos;s</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3144</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4675</Propertycount>
+    <Distance>5.9</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern East</Suburb>
+    <Address>28 Cairnes crescent</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3145</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8801</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern East</Suburb>
+    <Address>12 Darling Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>2000000</Price>
+    <Method>S</Method>
+    <SellerG>Woodards</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3145</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8801</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern East</Suburb>
+    <Address>2/37 Darling Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>1150000</Price>
+    <Method>VB</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3145</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8801</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maribyrnong</Suburb>
+    <Address>29 Hillsdale Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>813000</Price>
+    <Method>S</Method>
+    <SellerG>RT</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3032</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>4918</Propertycount>
+    <Distance>4.3</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maribyrnong</Suburb>
+    <Address>11/97 Raleigh Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>330000</Price>
+    <Method>S</Method>
+    <SellerG>Raine</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3032</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>4918</Propertycount>
+    <Distance>4.3</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maribyrnong</Suburb>
+    <Address>7 Woodruff Av</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>1425000</Price>
+    <Method>SP</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3032</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>4918</Propertycount>
+    <Distance>4.3</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>McKinnon</Suburb>
+    <Address>209/66 Bent St</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>875000</Price>
+    <Method>PI</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2397</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>McKinnon</Suburb>
+    <Address>5 Fitzroy St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1265000</Price>
+    <Method>S</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2397</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>McKinnon</Suburb>
+    <Address>48 Lees St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1200000</Price>
+    <Method>SP</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2397</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Meadow Heights</Suburb>
+    <Address>14 Ironbark Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>520000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3048</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4704</Propertycount>
+    <Distance>17.4</Distance>
+    <CouncilArea>Hume City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melbourne</Suburb>
+    <Address>66/538 Little Lonsdale St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>605000</Price>
+    <Method>S</Method>
+    <SellerG>McGrath</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3000</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>17496</Propertycount>
+    <Distance>0</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melbourne</Suburb>
+    <Address>814/70 Queens Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>649000</Price>
+    <Method>PI</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3000</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>17496</Propertycount>
+    <Distance>0</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melbourne</Suburb>
+    <Address>13/30 Russell St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>440000</Price>
+    <Method>SP</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3000</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>17496</Propertycount>
+    <Distance>0</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melton</Suburb>
+    <Address>19 Joan St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>431000</Price>
+    <Method>S</Method>
+    <SellerG>Raine</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3337</Postcode>
+    <Regionname>Western Victoria</Regionname>
+    <Propertycount>3600</Propertycount>
+    <Distance>31.7</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mentone</Suburb>
+    <Address>13 Coolabah St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1300000</Price>
+    <Method>S</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3194</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>6162</Propertycount>
+    <Distance>20</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mentone</Suburb>
+    <Address>5/30 Riviera St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>337000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3194</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>6162</Propertycount>
+    <Distance>20</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mentone</Suburb>
+    <Address>148 Warrigal Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Obrien</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3194</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>6162</Propertycount>
+    <Distance>20</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mernda</Suburb>
+    <Address>5 Vasari Gdns</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>525500</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3754</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5812</Propertycount>
+    <Distance>25.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Middle Park</Suburb>
+    <Address>19/109 Nimmo St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>800000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3206</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2019</Propertycount>
+    <Distance>3</Distance>
+    <CouncilArea>Port Phillip City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mill Park</Suburb>
+    <Address>1/12 Buckmaster Dr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>425000</Price>
+    <Method>S</Method>
+    <SellerG>Love</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3082</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>10529</Propertycount>
+    <Distance>17.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mill Park</Suburb>
+    <Address>33 Buckmaster Dr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>595500</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3082</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>10529</Propertycount>
+    <Distance>17.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mill Park</Suburb>
+    <Address>6 Hinkler Dr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>660000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3082</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>10529</Propertycount>
+    <Distance>17.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mitcham</Suburb>
+    <Address>5 Fawcett St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Noel</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3132</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>6871</Propertycount>
+    <Distance>17.2</Distance>
+    <CouncilArea>Whitehorse City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mitcham</Suburb>
+    <Address>12 Milne St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1300000</Price>
+    <Method>SP</Method>
+    <SellerG>Noel</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3132</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>6871</Propertycount>
+    <Distance>17.2</Distance>
+    <CouncilArea>Whitehorse City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Montmorency</Suburb>
+    <Address>16 Davey Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>820000</Price>
+    <Method>SP</Method>
+    <SellerG>Fletchers</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3094</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>3891</Propertycount>
+    <Distance>16.2</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Montmorency</Suburb>
+    <Address>373 Main Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>725000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart/hockingstuart</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3094</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>3891</Propertycount>
+    <Distance>16.2</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>67 Bowen St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1180000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>1 Lawson St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>910000</Price>
+    <Method>S</Method>
+    <SellerG>Brad</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>33 Lennox St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>887500</Price>
+    <Method>S</Method>
+    <SellerG>Rendina</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>6 Lethbridge St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1143000</Price>
+    <Method>S</Method>
+    <SellerG>Brad</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>110/521 Mt Alexander Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>W</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>22 Scotia St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1117500</Price>
+    <Method>S</Method>
+    <SellerG>Grantham</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>51 Wordsworth St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1330000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-04-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+<row>
+    <Suburb>Kew</Suburb>
+    <Address>2/8 Pleasant Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>975000</Price>
+    <Method>PI</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3101</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>10331</Propertycount>
+    <Distance>5.4</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kew East</Suburb>
+    <Address>2/13 Westbrook St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>862000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3102</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2671</Propertycount>
+    <Distance>7.3</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keysborough</Suburb>
+    <Address>15 Daylily Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>965000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3173</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>8459</Propertycount>
+    <Distance>25.2</Distance>
+    <CouncilArea>Greater Dandenong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Keysborough</Suburb>
+    <Address>33 Turramurra Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>761000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3173</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>8459</Propertycount>
+    <Distance>25.2</Distance>
+    <CouncilArea>Greater Dandenong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kings Park</Suburb>
+    <Address>169 Gillespie Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>520000</Price>
+    <Method>PI</Method>
+    <SellerG>Bells</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3021</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>2878</Propertycount>
+    <Distance>14</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kings Park</Suburb>
+    <Address>12 Tanglewood St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>530000</Price>
+    <Method>SP</Method>
+    <SellerG>YPA</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3021</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>2878</Propertycount>
+    <Distance>14</Distance>
+    <CouncilArea>Brimbank City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kingsbury</Suburb>
+    <Address>11d Ellerslie St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>PN</Method>
+    <SellerG>Love</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3083</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>1414</Propertycount>
+    <Distance>12.1</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kingsville</Suburb>
+    <Address>48 Coronation St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1020000</Price>
+    <Method>S</Method>
+    <SellerG>Village</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>1808</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Kingsville</Suburb>
+    <Address>5/35 Kingsville St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>210000</Price>
+    <Method>PI</Method>
+    <SellerG>Jas</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>1808</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lalor</Suburb>
+    <Address>11 Benaroon Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>750000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3075</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>8279</Propertycount>
+    <Distance>16.3</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lalor</Suburb>
+    <Address>226 Dalton Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>635000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3075</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>8279</Propertycount>
+    <Distance>16.3</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lalor</Suburb>
+    <Address>2/70 David St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>410000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3075</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>8279</Propertycount>
+    <Distance>16.3</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lalor</Suburb>
+    <Address>15 Dennis St</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>675000</Price>
+    <Method>SP</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3075</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>8279</Propertycount>
+    <Distance>16.3</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lower Plenty</Suburb>
+    <Address>13 Anthony Cl</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>880000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3093</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>1624</Propertycount>
+    <Distance>14.6</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Lynbrook</Suburb>
+    <Address>9 MacLeod Wy</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>597500</Price>
+    <Method>S</Method>
+    <SellerG>Stockdale</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3975</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>2322</Propertycount>
+    <Distance>33.8</Distance>
+    <CouncilArea>Casey City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>MacLeod</Suburb>
+    <Address>2/63 Harborne St</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>640000</Price>
+    <Method>S</Method>
+    <SellerG>Darren</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3085</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>4168</Propertycount>
+    <Distance>12.7</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maidstone</Suburb>
+    <Address>14/4 Crefden St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>280000</Price>
+    <Method>VB</Method>
+    <SellerG>McGrath</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>3873</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maidstone</Suburb>
+    <Address>3/10 Greenham St</Address>
+    <Rooms>2</Rooms>
+    <Type>t</Type>
+    <Price>520000</Price>
+    <Method>S</Method>
+    <SellerG>Jas</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>3873</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maidstone</Suburb>
+    <Address>3/83 Mitchell St</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>895000</Price>
+    <Method>S</Method>
+    <SellerG>Rendina</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>3873</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maidstone</Suburb>
+    <Address>2/34 Scovell Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>660000</Price>
+    <Method>PI</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3012</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>3873</Propertycount>
+    <Distance>6.4</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern East</Suburb>
+    <Address>46 Bowen St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3145</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8801</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern East</Suburb>
+    <Address>69 Brunel St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>2110000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3145</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8801</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Malvern East</Suburb>
+    <Address>65 Karma Av</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3145</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8801</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maribyrnong</Suburb>
+    <Address>6 Clyde St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1050000</Price>
+    <Method>PI</Method>
+    <SellerG>Brad</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3032</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>4918</Propertycount>
+    <Distance>4.3</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maribyrnong</Suburb>
+    <Address>302/55 Cumberland Dr</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Woodards</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3032</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>4918</Propertycount>
+    <Distance>4.3</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Maribyrnong</Suburb>
+    <Address>102/58 La Scala Av</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3032</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>4918</Propertycount>
+    <Distance>4.3</Distance>
+    <CouncilArea>Maribyrnong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melton</Suburb>
+    <Address>38 Gretel Gr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>320000</Price>
+    <Method>SP</Method>
+    <SellerG>Raine</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3337</Postcode>
+    <Regionname>Western Victoria</Regionname>
+    <Propertycount>3600</Propertycount>
+    <Distance>31.7</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melton</Suburb>
+    <Address>21 Sandra St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>480000</Price>
+    <Method>SP</Method>
+    <SellerG>PRDNationwide</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3337</Postcode>
+    <Regionname>Western Victoria</Regionname>
+    <Propertycount>3600</Propertycount>
+    <Distance>31.7</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melton South</Suburb>
+    <Address>19 Sutherland Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>365000</Price>
+    <Method>S</Method>
+    <SellerG>Raine</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3338</Postcode>
+    <Regionname>Western Victoria</Regionname>
+    <Propertycount>4718</Propertycount>
+    <Distance>29.8</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Melton West</Suburb>
+    <Address>1 Garden Tce</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PN</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3337</Postcode>
+    <Regionname>Northern Victoria</Regionname>
+    <Propertycount>6065</Propertycount>
+    <Distance>31.7</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mentone</Suburb>
+    <Address>3/35 Bourke St</Address>
+    <Rooms>2</Rooms>
+    <Type>t</Type>
+    <Price>705000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3194</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>6162</Propertycount>
+    <Distance>20</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mernda</Suburb>
+    <Address>26 Coppice St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>670000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3754</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5812</Propertycount>
+    <Distance>25.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mernda</Suburb>
+    <Address>8 Medici Pl</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3754</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5812</Propertycount>
+    <Distance>25.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mernda</Suburb>
+    <Address>6 Renaissance Bvd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>520500</Price>
+    <Method>S</Method>
+    <SellerG>RW</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3754</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5812</Propertycount>
+    <Distance>25.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mickleham</Suburb>
+    <Address>20 Prime St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3064</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>1158</Propertycount>
+    <Distance>20.6</Distance>
+    <CouncilArea>Hume City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mill Park</Suburb>
+    <Address>2/2 Comeram Ct</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>460000</Price>
+    <Method>S</Method>
+    <SellerG>Love</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3082</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>10529</Propertycount>
+    <Distance>17.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mill Park</Suburb>
+    <Address>18 Henricks Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>610000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3082</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>10529</Propertycount>
+    <Distance>17.9</Distance>
+    <CouncilArea>Whittlesea City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mitcham</Suburb>
+    <Address>29 Fuller St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>950000</Price>
+    <Method>S</Method>
+    <SellerG>Noel</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3132</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>6871</Propertycount>
+    <Distance>17.2</Distance>
+    <CouncilArea>Whitehorse City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mitcham</Suburb>
+    <Address>3/21 McGhee Av</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>715000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3132</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>6871</Propertycount>
+    <Distance>17.2</Distance>
+    <CouncilArea>Whitehorse City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mitcham</Suburb>
+    <Address>2/2 Walter St</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>970000</Price>
+    <Method>VB</Method>
+    <SellerG>Noel</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3132</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>6871</Propertycount>
+    <Distance>17.2</Distance>
+    <CouncilArea>Whitehorse City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mont Albert</Suburb>
+    <Address>21 Barloa Rd</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>2200000</Price>
+    <Method>SP</Method>
+    <SellerG>Marshall</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3127</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2079</Propertycount>
+    <Distance>10.2</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mont Albert</Suburb>
+    <Address>11 Inglisby Rd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2320000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3127</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2079</Propertycount>
+    <Distance>10.2</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mont Albert</Suburb>
+    <Address>46 Victoria Cr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2752000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3127</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>2079</Propertycount>
+    <Distance>10.2</Distance>
+    <CouncilArea>Boroondara City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Montmorency</Suburb>
+    <Address>349 Main Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>655000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3094</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>3891</Propertycount>
+    <Distance>16.2</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Montmorency</Suburb>
+    <Address>207 Rattray Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>960000</Price>
+    <Method>PI</Method>
+    <SellerG>Fletchers</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3094</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>3891</Propertycount>
+    <Distance>16.2</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Montrose</Suburb>
+    <Address>10 Ravenswood Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Max</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3765</Postcode>
+    <Regionname>Eastern Victoria</Regionname>
+    <Propertycount>2493</Propertycount>
+    <Distance>28.8</Distance>
+    <CouncilArea>Yarra Ranges Shire Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>6 Addison St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1810000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>59 Robinson St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1020000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moonee Ponds</Suburb>
+    <Address>27 The Strand</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1250000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3039</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>6232</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Moonee Valley City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Moorabbin</Suburb>
+    <Address>3 Bruthen St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1175000</Price>
+    <Method>PI</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3189</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2555</Propertycount>
+    <Distance>14.3</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mordialloc</Suburb>
+    <Address>51B Bear St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>800000</Price>
+    <Method>PI</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3195</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>3650</Propertycount>
+    <Distance>21.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mordialloc</Suburb>
+    <Address>108 Chute St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1225000</Price>
+    <Method>S</Method>
+    <SellerG>O&apos;Brien</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3195</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>3650</Propertycount>
+    <Distance>21.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>53 Catherine Av</Address>
+    <Rooms>6</Rooms>
+    <Type>h</Type>
+    <Price>1200000</Price>
+    <Method>PI</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>9 Griffiths Ct</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>12 Holskamp St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1205000</Price>
+    <Method>S</Method>
+    <SellerG>McGrath</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>3 Huxtable St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1720000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>26 Malcolm Ct</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>1600000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>11 Maureen St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>944000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>2 Merton Cl</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1385000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>23 Monomeith Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1280000</Price>
+    <Method>S</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mount Waverley</Suburb>
+    <Address>24 Sunnyside Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>2000000</Price>
+    <Method>VB</Method>
+    <SellerG>Fletchers</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3149</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>13366</Propertycount>
+    <Distance>14.2</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Mulgrave</Suburb>
+    <Address>23 Einstein Av</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3170</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>7113</Propertycount>
+    <Distance>18.8</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Narre Warren</Suburb>
+    <Address>29 Bradley Tce</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>650000</Price>
+    <Method>SP</Method>
+    <SellerG>O&apos;Brien</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3805</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>9376</Propertycount>
+    <Distance>34.1</Distance>
+    <CouncilArea>Casey City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Narre Warren</Suburb>
+    <Address>29 Hanley St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>655000</Price>
+    <Method>SP</Method>
+    <SellerG>Only</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3805</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>9376</Propertycount>
+    <Distance>34.1</Distance>
+    <CouncilArea>Casey City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Narre Warren</Suburb>
+    <Address>28 Murdoch Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>580000</Price>
+    <Method>SP</Method>
+    <SellerG>O&apos;Brien</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3805</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>9376</Propertycount>
+    <Distance>34.1</Distance>
+    <CouncilArea>Casey City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Newport</Suburb>
+    <Address>2A Gordon St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>710000</Price>
+    <Method>S</Method>
+    <SellerG>Williams</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3015</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5498</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Hobsons Bay City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Newport</Suburb>
+    <Address>1/508 Melbourne Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>335000</Price>
+    <Method>SP</Method>
+    <SellerG>Jas</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3015</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5498</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Hobsons Bay City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Newport</Suburb>
+    <Address>34 Thorpe St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1330000</Price>
+    <Method>S</Method>
+    <SellerG>RT</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3015</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>5498</Propertycount>
+    <Distance>6.2</Distance>
+    <CouncilArea>Hobsons Bay City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Noble Park</Suburb>
+    <Address>3/3 Baldwin Av</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>466500</Price>
+    <Method>S</Method>
+    <SellerG>Leyton</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3174</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>11806</Propertycount>
+    <Distance>22.7</Distance>
+    <CouncilArea>Greater Dandenong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Noble Park</Suburb>
+    <Address>3 Christine Ct</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>PI</Method>
+    <SellerG>iSell</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3174</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>11806</Propertycount>
+    <Distance>22.7</Distance>
+    <CouncilArea>Greater Dandenong City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>North Melbourne</Suburb>
+    <Address>8/302 Abbotsford St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>550000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3051</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>6821</Propertycount>
+    <Distance>1.8</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>North Melbourne</Suburb>
+    <Address>187 Errol St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>962000</Price>
+    <Method>S</Method>
+    <SellerG>Alexkarbon</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3051</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>6821</Propertycount>
+    <Distance>1.8</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>North Melbourne</Suburb>
+    <Address>2E Princess St</Address>
+    <Rooms>2</Rooms>
+    <Type>t</Type>
+    <Price>936000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3051</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>6821</Propertycount>
+    <Distance>1.8</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>North Melbourne</Suburb>
+    <Address>6/8 Tyrone St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>580000</Price>
+    <Method>VB</Method>
+    <SellerG>Alexkarbon</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3051</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>6821</Propertycount>
+    <Distance>1.8</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Northcote</Suburb>
+    <Address>26 Salisbury Gr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1900000</Price>
+    <Method>PI</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3070</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>11364</Propertycount>
+    <Distance>5.3</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Northcote</Suburb>
+    <Address>14 Wardrop Gr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1605000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3070</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>11364</Propertycount>
+    <Distance>5.3</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Northcote</Suburb>
+    <Address>65 Westgarth St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1415000</Price>
+    <Method>S</Method>
+    <SellerG>Woodards</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3070</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>11364</Propertycount>
+    <Distance>5.3</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Northcote</Suburb>
+    <Address>4/26 Wilmoth St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>390000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3070</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>11364</Propertycount>
+    <Distance>5.3</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Nunawading</Suburb>
+    <Address>3/1 Crest Gr</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>637000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3131</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>4973</Propertycount>
+    <Distance>15.4</Distance>
+    <CouncilArea>Manningham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Nunawading</Suburb>
+    <Address>31 Olwen St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>1100000</Price>
+    <Method>S</Method>
+    <SellerG>Fletchers</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3131</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>4973</Propertycount>
+    <Distance>15.4</Distance>
+    <CouncilArea>Manningham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Nunawading</Suburb>
+    <Address>90 Springvale Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>926000</Price>
+    <Method>S</Method>
+    <SellerG>Fletchers</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3131</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>4973</Propertycount>
+    <Distance>15.4</Distance>
+    <CouncilArea>Manningham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oak Park</Suburb>
+    <Address>13 Kiama St</Address>
+    <Rooms>2</Rooms>
+    <Type>t</Type>
+    <Price>610000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3046</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>2651</Propertycount>
+    <Distance>11.2</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oak Park</Suburb>
+    <Address>3/18 Lex Gr</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>700000</Price>
+    <Method>VB</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3046</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>2651</Propertycount>
+    <Distance>11.2</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oakleigh East</Suburb>
+    <Address>1725 Dandenong Rd</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>1525000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3166</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2547</Propertycount>
+    <Distance>12.3</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oakleigh East</Suburb>
+    <Address>82 Patrick St</Address>
+    <Rooms>6</Rooms>
+    <Type>h</Type>
+    <Price>1900000</Price>
+    <Method>PI</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3166</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2547</Propertycount>
+    <Distance>12.3</Distance>
+    <CouncilArea>Monash City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oakleigh South</Suburb>
+    <Address>6 Cypress Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Obrien</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3167</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>3692</Propertycount>
+    <Distance>15.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oakleigh South</Suburb>
+    <Address>13 Devoy St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3167</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>3692</Propertycount>
+    <Distance>15.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Oakleigh South</Suburb>
+    <Address>1/1250 North Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3167</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>3692</Propertycount>
+    <Distance>15.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ormond</Suburb>
+    <Address>2/21 Lillimur Rd</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>454000</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>3578</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ormond</Suburb>
+    <Address>6/32 Walsh St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>562000</Price>
+    <Method>S</Method>
+    <SellerG>Gary</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>3578</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Parkdale</Suburb>
+    <Address>13B Elm Gr</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>1000000</Price>
+    <Method>S</Method>
+    <SellerG>Obrien</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3195</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>5087</Propertycount>
+    <Distance>21.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Parkdale</Suburb>
+    <Address>13 Lawborough Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>985000</Price>
+    <Method>S</Method>
+    <SellerG>Maitland</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3195</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>5087</Propertycount>
+    <Distance>21.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Parkdale</Suburb>
+    <Address>44 Melrose St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>820000</Price>
+    <Method>S</Method>
+    <SellerG>Thomson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3195</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>5087</Propertycount>
+    <Distance>21.5</Distance>
+    <CouncilArea>Kingston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Pascoe Vale</Suburb>
+    <Address>123 Cumberland Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>870000</Price>
+    <Method>PI</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3044</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>7485</Propertycount>
+    <Distance>8.5</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Pascoe Vale</Suburb>
+    <Address>9 Dorset Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>800000</Price>
+    <Method>SP</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3044</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>7485</Propertycount>
+    <Distance>8.5</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Pascoe Vale</Suburb>
+    <Address>5 Fleming Gr</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>1501000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3044</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>7485</Propertycount>
+    <Distance>8.5</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Pascoe Vale</Suburb>
+    <Address>3/424 Gaffney St</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3044</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>7485</Propertycount>
+    <Distance>8.5</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Pascoe Vale</Suburb>
+    <Address>1 Hazel Gr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1663000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3044</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>7485</Propertycount>
+    <Distance>8.5</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Pascoe Vale</Suburb>
+    <Address>1 Virginia St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>780000</Price>
+    <Method>VB</Method>
+    <SellerG>Brad</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3044</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>7485</Propertycount>
+    <Distance>8.5</Distance>
+    <CouncilArea>Moreland City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Point Cook</Suburb>
+    <Address>97 Alamanda Bvd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3030</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>15542</Propertycount>
+    <Distance>14.7</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Point Cook</Suburb>
+    <Address>23 Bevan Ct</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>660000</Price>
+    <Method>S</Method>
+    <SellerG>Reliance</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3030</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>15542</Propertycount>
+    <Distance>14.7</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Point Cook</Suburb>
+    <Address>24 Derham Dr</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Reliance</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3030</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>15542</Propertycount>
+    <Distance>14.7</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Point Cook</Suburb>
+    <Address>14 Glider St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>W</Method>
+    <SellerG>YPA</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3030</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>15542</Propertycount>
+    <Distance>14.7</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Point Cook</Suburb>
+    <Address>76 Hargrave Av</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>663500</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3030</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>15542</Propertycount>
+    <Distance>14.7</Distance>
+    <CouncilArea>Wyndham City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Port Melbourne</Suburb>
+    <Address>6/156 Bay St</Address>
+    <Rooms>3</Rooms>
+    <Type>u</Type>
+    <Price>1631000</Price>
+    <Method>S</Method>
+    <SellerG>Cayzer</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3207</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8648</Propertycount>
+    <Distance>3.5</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Port Melbourne</Suburb>
+    <Address>67 Ross St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1665000</Price>
+    <Method>S</Method>
+    <SellerG>Greg</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3207</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8648</Propertycount>
+    <Distance>3.5</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Port Melbourne</Suburb>
+    <Address>107 Stokes St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2450000</Price>
+    <Method>VB</Method>
+    <SellerG>Lucas</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3207</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>8648</Propertycount>
+    <Distance>3.5</Distance>
+    <CouncilArea>Melbourne City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Prahran</Suburb>
+    <Address>11/8 Grandview Gr</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>399000</Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3181</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>7717</Propertycount>
+    <Distance>4.6</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Prahran</Suburb>
+    <Address>1/648 High St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>1240000</Price>
+    <Method>S</Method>
+    <SellerG>Rounds</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3181</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>7717</Propertycount>
+    <Distance>4.6</Distance>
+    <CouncilArea>Stonnington City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Preston</Suburb>
+    <Address>2/1 Ambon St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>727500</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3072</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14577</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Preston</Suburb>
+    <Address>4 Benambra St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3072</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14577</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Preston</Suburb>
+    <Address>1/103 Bruce St</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>965000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3072</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14577</Propertycount>
+    <Distance>8.4</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Princes Hill</Suburb>
+    <Address>84 Bowen Cr</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>2530000</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3054</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>1008</Propertycount>
+    <Distance>3.5</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Princes Hill</Suburb>
+    <Address>251 Richardson St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1930000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3054</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>1008</Propertycount>
+    <Distance>3.5</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>111 Boldrewood Pde</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>840000</Price>
+    <Method>SP</Method>
+    <SellerG>RW</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>57 Crevelli St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>560000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>5/1 Griffiths St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>7 Inverness St</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>900000</Price>
+    <Method>SP</Method>
+    <SellerG>Stockdale</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>22 Locher Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>680500</Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>78 McMahon Rd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>902000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>16 Muriel Ct</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>825000</Price>
+    <Method>S</Method>
+    <SellerG>RW</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>16 Oconnor St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>801000</Price>
+    <Method>SP</Method>
+    <SellerG>Love</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Reservoir</Suburb>
+    <Address>3/76 Southernhay St</Address>
+    <Rooms>2</Rooms>
+    <Type>t</Type>
+    <Price>668500</Price>
+    <Method>S</Method>
+    <SellerG>Nelson</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3073</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>21650</Propertycount>
+    <Distance>12</Distance>
+    <CouncilArea>Darebin City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>13 Francis St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1165000</Price>
+    <Method>S</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>120/8 Garfield St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>390000</Price>
+    <Method>PI</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>7/129 Hoddle St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>890500</Price>
+    <Method>SP</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>5 King St</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Jellis</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>54 Laity St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1310000</Price>
+    <Method>S</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>202/47 Murphy St</Address>
+    <Rooms>1</Rooms>
+    <Type>u</Type>
+    <Price>458000</Price>
+    <Method>S</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>2 Sutton Gr</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>1442000</Price>
+    <Method>S</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Richmond</Suburb>
+    <Address>1 Waltham Pl</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price>2200000</Price>
+    <Method>PI</Method>
+    <SellerG>Biggin</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3121</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>14949</Propertycount>
+    <Distance>2.4</Distance>
+    <CouncilArea>Yarra City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ringwood</Suburb>
+    <Address>36 Kalinda Rd</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>VB</Method>
+    <SellerG>McGrath</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3134</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>7785</Propertycount>
+    <Distance>19.9</Distance>
+    <CouncilArea>Maroondah City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ringwood</Suburb>
+    <Address>11 Kenwood Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>750000</Price>
+    <Method>VB</Method>
+    <SellerG>Purplebricks</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3134</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>7785</Propertycount>
+    <Distance>19.9</Distance>
+    <CouncilArea>Maroondah City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ringwood</Suburb>
+    <Address>2/7 Pearwood St</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price></Price>
+    <Method>SN</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3134</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>7785</Propertycount>
+    <Distance>19.9</Distance>
+    <CouncilArea>Maroondah City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ringwood</Suburb>
+    <Address>2/11 Sussex St</Address>
+    <Rooms>4</Rooms>
+    <Type>t</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Philip</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3134</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>7785</Propertycount>
+    <Distance>19.9</Distance>
+    <CouncilArea>Maroondah City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Ringwood East</Suburb>
+    <Address>3/1 Mines Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>560000</Price>
+    <Method>S</Method>
+    <SellerG>Barry</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3135</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>4407</Propertycount>
+    <Distance>21.3</Distance>
+    <CouncilArea>Maroondah City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Rockbank</Suburb>
+    <Address>2013 Western Hwy</Address>
+    <Rooms>2</Rooms>
+    <Type>h</Type>
+    <Price>340000</Price>
+    <Method>SP</Method>
+    <SellerG>YPA</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3335</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>538</Propertycount>
+    <Distance>23.8</Distance>
+    <CouncilArea>Melton City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Rosanna</Suburb>
+    <Address>5 Coorie Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>1101000</Price>
+    <Method>S</Method>
+    <SellerG>Miles</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3084</Postcode>
+    <Regionname>Eastern Metropolitan</Regionname>
+    <Propertycount>3540</Propertycount>
+    <Distance>8.9</Distance>
+    <CouncilArea>Banyule City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Rowville</Suburb>
+    <Address>7 Christian Ct</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>S</Method>
+    <SellerG>Ray</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3178</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>11667</Propertycount>
+    <Distance>23.5</Distance>
+    <CouncilArea>Knox City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Rowville</Suburb>
+    <Address>11 Jindalee Cl</Address>
+    <Rooms>5</Rooms>
+    <Type>h</Type>
+    <Price>870000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3178</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>11667</Propertycount>
+    <Distance>23.5</Distance>
+    <CouncilArea>Knox City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Rowville</Suburb>
+    <Address>19 The Fairway</Address>
+    <Rooms>4</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Woodards</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3178</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>11667</Propertycount>
+    <Distance>23.5</Distance>
+    <CouncilArea>Knox City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Roxburgh Park</Suburb>
+    <Address>15 Thompson Cr</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>420000</Price>
+    <Method>S</Method>
+    <SellerG>Raine</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3064</Postcode>
+    <Regionname>Northern Metropolitan</Regionname>
+    <Propertycount>5833</Propertycount>
+    <Distance>20.6</Distance>
+    <CouncilArea>Hume City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Sandringham</Suburb>
+    <Address>6/76 Bay Rd</Address>
+    <Rooms>2</Rooms>
+    <Type>u</Type>
+    <Price>643500</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3191</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>4497</Propertycount>
+    <Distance>15.2</Distance>
+    <CouncilArea>Bayside City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Seabrook</Suburb>
+    <Address>19 Spindrift Wy</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>625000</Price>
+    <Method>S</Method>
+    <SellerG>hockingstuart</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3028</Postcode>
+    <Regionname>Western Metropolitan</Regionname>
+    <Propertycount>1793</Propertycount>
+    <Distance>15.5</Distance>
+    <CouncilArea>Hobsons Bay City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Seaford</Suburb>
+    <Address>18 Bainbridge Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>610000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3198</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>8077</Propertycount>
+    <Distance>35.4</Distance>
+    <CouncilArea>Frankston City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>Seaford</Suburb>
+    <Address>25 Duncan Av</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price>565000</Price>
+    <Method>S</Method>
+    <SellerG>Harcourts</SellerG>
+    <Date>01-07-2017</Date>
+    <Postcode>3198</Postcode>
+    <Regionname>South-Eastern Metropolitan</Regionname>
+    <Propertycount>8077</Propertycount>
+    <Distance>35.4</Distance>
+    <CouncilArea>Frankston City Council</CouncilArea>
+  </row>
+<row>
+    <Suburb>McKinnon</Suburb>
+    <Address>2 Draper St</Address>
+    <Rooms>3</Rooms>
+    <Type>h</Type>
+    <Price></Price>
+    <Method>SP</Method>
+    <SellerG>Buxton</SellerG>
+    <Date>02-06-2018</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2397</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+  <row>
+    <Suburb>McKinnon</Suburb>
+    <Address>1/6 McKinnon Rd</Address>
+    <Rooms>3</Rooms>
+    <Type>t</Type>
+    <Price>1000000</Price>
+    <Method>SP</Method>
+    <SellerG>Gary</SellerG>
+    <Date>02-06-2018</Date>
+    <Postcode>3204</Postcode>
+    <Regionname>Southern Metropolitan</Regionname>
+    <Propertycount>2397</Propertycount>
+    <Distance>11.4</Distance>
+    <CouncilArea>Glen Eira City Council</CouncilArea>
+  </row>
+ </root>
+  
